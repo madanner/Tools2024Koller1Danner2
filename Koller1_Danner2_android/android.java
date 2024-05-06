@@ -3,5 +3,8 @@ public class android {
         System.out.println("Hello, World!");
         System.out.println("New Line");
     }
-    public void thisIsANewMethod() {    }
+    public void thisIsANewMethod() {
+        
+        System.out.println("New Line by Mario");
+    }
 }
