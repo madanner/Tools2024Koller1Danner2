@@ -8,5 +8,6 @@ public class android {
         System.out.println("New Line by Mario");
         System.out.println("Bugfix Line");
         System.out.println("Bugfix Line 2");
+        System.out.println("Bugfix Line 3");
     }
 }
