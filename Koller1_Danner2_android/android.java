@@ -7,5 +7,6 @@ public class android {
         System.out.println("Line from Anni");
         System.out.println("New Line by Mario");
         System.out.println("Bugfix Line");
+        System.out.println("Bugfix Line 2");
     }
 }
